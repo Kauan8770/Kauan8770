@@ -6,7 +6,7 @@ Meu nome é Kauan Rdrigues Luiz Mateus Dos Santos
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo :kauan
 
 000011276541365SP@aluno.educacao.sp.gov.br
 
